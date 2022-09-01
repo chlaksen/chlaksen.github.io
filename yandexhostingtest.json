@@ -1,7 +1,9 @@
 {
     "data": {
         "show_ads": true,
-        "ad_unit_id": "R-M-1822371-1",
-        "inter_id": "R-M-DEMO-interstitial"
+        "bannerad": "yandex"
+        "interad": "yandex"
+        "yandexbanner": "R-M-1822371-1",
+        "yandexinter": "R-M-DEMO-interstitial"
     } 
 }
