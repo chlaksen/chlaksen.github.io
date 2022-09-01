@@ -1,6 +1,6 @@
 {
     "data": {
-        "show_ads": false,
+        "show_ads": true,
         "bannerad": "yandex",
         "interad": "yandex",
         "yandexbanner": "R-M-1822371-1",
