@@ -8,25 +8,25 @@
         "yandexinter": "R-M-DEMO-interstitial",
         "imageUrl1": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
         "imageUrl2": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/wobblyicon.png"
-    } 
+    } ,
     
     "app1": {
         "appName": "Rec Room",
         "appDescription": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all.",
         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png"
-    }
+    },
 
     "app2": {
         "appName": "Wobbly Life",
         "appDescription": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all.",
         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png"
-    }
+    },
     
     "app3": {
         "appName": "Security Breach",
         "appDescription": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all.",
         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png"
-    }
+    },
     
     "app4": {
         "appName": "I am Fish",
