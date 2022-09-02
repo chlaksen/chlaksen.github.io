@@ -3,7 +3,7 @@
         "show_ads": true,
         "bannerad": "yandex",
         "interad": "yandex",
-        "appNumber": "4",
+        "appNumber": 4,
         "yandexbanner": "R-M-1822371-1",
         "yandexinter": "R-M-DEMO-interstitial",
         "imageUrl1": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
