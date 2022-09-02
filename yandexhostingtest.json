@@ -12,25 +12,25 @@
     
     "app1": {
         "appName": "Rec Room",
-        "appDescription": "rec room"
+        "appDescription": "rec room",
         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png"
     },
 
     "app2": {
         "appName": "Wobbly Life",
-        "appDescription": "wobbly life"
+        "appDescription": "wobbly life",
         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png"
     },
     
     "app3": {
         "appName": "Security Breach",
-        "appDescription": "Security Breach"
+        "appDescription": "Security Breach",
         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png"
     },
     
     "app4": {
         "appName": "I am Fish",
-        "appDescription": "I am Fish"
+        "appDescription": "I am Fish",
         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png"
     }
 }
