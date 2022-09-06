@@ -1,2 +1,113 @@
 {
+    "data": {
+        "appNumber": 11,
+        "show_ads": true,
+        "bannerad": "yandex",
+        "interad": "yandex",
+        "nativead": "yandex",
+        "yandexbanner": "R-M-1822371-1",
+        "yandexinter": "R-M-DEMO-interstitial",
+        "yandexnative": "R-M-1833290-2",
+        "oneSignal": "064ed128-2f6a-4632-af5b-5be995fffa52",
+        "splashImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png"
+    } ,
+    
+    "app0": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+    
+    "app1": {
+        "appName": "Wobbly Life",
+        "appDescription": "Wobbly Life is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/wobblyicon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/wobblyicon.png",
+        "appRating": "4.7",
+        "appCategorie": "Arcarde"
+    },
+    
+    "app2": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+
+    "app3": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+
+    "app4": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+
+    "app5": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+
+    "app6": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+
+    "app7": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+
+    "app8": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+
+    "app9": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+
+    "app10": {
+        "appName": "Rec Room",
+        "appDescription": "Rec Room is free, and cross plays on everything from phones to VR headsets. It's the social app you play like a video game",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/image_Folder/icon.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    }
 }
