@@ -2,8 +2,8 @@
     "data": {
         "appNumber": 20,
         "show_ads": true,
-        "bannerad": "yandex",
-        "interad": "yandex",
+        "bannerad": "mytarget",
+        "interad": "mytarget",
         "nativead": "yandex",
         "yandexbanner": "R-M-1822371-1",
         "yandexinter": "R-M-DEMO-interstitial",
