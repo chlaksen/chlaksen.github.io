@@ -1,12 +1,12 @@
 {
     "data": {
         "appNumber": 30,
-        "show_ads": false,
+        "show_ads": true,
         "bannerad": "yandex",
         "interad": "yandex",
         "nativead": "yandex",
-        "yandexbanner": "R-M-1822371-1",
-        "yandexinter": "R-M-DEMO-interstitial",
+        "yandexbanner": "R-M-1833290-1",
+        "yandexinter": "R-M-1833290-3",
         "yandexnative": "R-M-1833290-2",
         "oneSignal": "064ed128-2f6a-4632-af5b-5be995fffa52"
     } ,
