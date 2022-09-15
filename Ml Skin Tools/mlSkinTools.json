@@ -1,2 +1,286 @@
 {
+    "data": {
+        "appNumber": 30,
+        "show_ads": false,
+        "bannerad": "yandex",
+        "interad": "yandex",
+        "nativead": "yandex",
+        "yandexbanner": "R-M-1950503-1",
+        "yandexinter": "R-M-DEMO-interstitial",
+        "yandexnative": "R-M-1950503-2",
+        "oneSignal": "064ed128-2f6a-4632-af5b-5be995fffa52",
+        "splashImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Room%20Mods/icon.png"
+    } ,
+                 
+    "app0": {
+        "appName": "Garena Free Fire",
+        "appDescription": "Free Fire, the world-famous survival shooter game available on mobile. Each 10-minute game places you on a remote island where you are pit against 49 other players, all seeking survival. Players freely choose their starting point with their parachute, and aim to stay in the safe zone for as long as possible. Drive vehicles to explore the vast map, hide in the wild, or become invisible by proning under grass or rifts. Ambush, snipe, survive, there is only one goal: to survive and answer the call of duty.\nFree Fire, Battle In Style!\n[Survival shooter in its original form]\nSearch for weapons, stay in the play zone, loot your enemies and become the last man standing. Along the way, go for legendary airdrops while avoiding airstrikes to gain that little edge against other players.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-16.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-1.png",
+        "appRating": "4.1",
+        "appCategorie": "Action"
+    },
+    
+    "app1": {
+        "appName": "Subway Surfers",
+        "appDescription": "DASH as fast as you can!\nDODGE the oncoming trains!\nHelp Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.\n★ Grind trains with your cool crew!\n★ Colorful and vivid HD graphics!\n★ Hoverboard Surfing!\n★ Paint powered jetpack!\n★ Lightning fast swipe acrobatics!\n★ Challenge and help your friends!\nJoin the most daring chase!\nA Universal App with HD optimized graphics.\nBy Kiloo and Sybo.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-17.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-2.png",
+        "appRating": "4.4",
+        "appCategorie": "Arcarde"
+    },
+    
+    "app2": {
+        "appName": "8 Ball Pool",
+        "appDescription": "o you want to play in the world of pool games? 8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online. Become a master of the pool!\n\nThe balls game is easy to win. You just have to select the table and get ready. Join us and challenge your to this ball game in PvP mode. Use your pool strategy with the cue wisely in this online multiplayer ball game as every round will be more difficult after each level. You can play in multiplayer or PvP mode in different pool tables. Become the best player and challenge your friends in this pool game.\n\nYou can play pool in multiplayer or PvP mode using different balls and table types. 8 Ball Pool is designed to help your intelligence. You will improve the aim when shooting balls with the cue.\n\nCHALLENGE YOUR FRIENDS\nPlaying pool in multiplayer tournaments with friends is easy: Sign in for free with your Miniclip or Facebook account and you’ll be able to challenge your friends straight from this multiplayer 8 ball game. Challenge friends to a PvP pool match on the go. Aim and shoot your best balls with a customized cue in our online 3D PvP tournament!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-18.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-3.png",
+        "appRating": "4.7",
+        "appCategorie": "Sports"
+    },
+    
+    "app3": {
+        "appName": "Basketball Battle",
+        "appDescription": "MOVES:\n★ Easy moving and shooting!\n★ Dunk on people!\n★ Nasty cross-overs and step-backs!\n\nCOMPETITION:\n★ Travel the country competing in tournaments!\n★ Over 100 unique basketball courts!\n★ Compete in online LIVE EVENTS!\n\nTEAM MANAGEMENT:\n★ Customize your look and upgrade your players!\n\nFRIENDS:\n★ Challenge friends in 2 player split screen!\n\nDon't miss out on the sports game everyone is playing!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-19.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-4.png",
+        "appRating": "4.3",
+        "appCategorie": "Sports"
+    },
+    
+    "app4": {
+        "appName": "yu-gi-oh! cross duel",
+        "appDescription": "Overlapping battles make for an ever-changing match! Duelists will have to pay close attention if they want to come out on top!\n\n[Game Introduction]\n\n▼ What Is Yu-Gi-Oh! CROSS DUEL?\nIf you want to duke it out in real-time with Duelists worldwide in a brand-new style of card game, then look no further!\n\n▼ Three Modes to Enjoy!\nIn addition to 4 Player Match Mode, you can play together with characters from the Yu-Gi-Oh! series in Single Player Mode, or head to 4 Player Co-op Mode and team up with other Duelists to overcome a fearsome Raid Boss!\nAim to become the best Duelist in whichever mode suits you!\n\n▼ Characters\nCharacters from 7 different animated Yu-Gi-Oh! series will make an appearance, partnering with Duelists in battle!\nStrengthen your bonds with your Partners to take down even the toughest enemies!\nWith the original cast doing the voice acting, Duels feel even more dramatic!\n\n▼ Monsters\nAll monsters have been rendered with 3D graphics, including awe-inspiring Summoning scenes!\nMonsters can be enhanced with a wide range of powerful Skills, allowing Duelists to customize their builds.\nSetting different Skills to the same monster results in wildly different battle styles!\nUse your favorite monsters and Ace Monsters to create your own unique Deck!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-20.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-5.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+    
+        "app5": {
+        "appName": "lords mobile: tower defense",
+        "appDescription": "Tired of other strategy games? Are you ready for a REAL fight?\n\nThe true Emperor has fallen. We need a real hero, a true Lord who can unite the Kingdoms. Recruit heroes from various backgrounds, from dwarves and mermaids to dark elves and steampunk robots, and assemble your army in this magical world! Fight and conquer to establish your empire in one of the strategy games!\n\n[Game Features]:\n\n▶ ▶ Collect Artifacts! ◀◀\nDiscover ancient Artifacts in the Artifact Hall. Upgrade and enhance them to unlock their true power!\n\n▶ ▶ Enter the Vergeway! ◀◀\n\nLike tower defense? Then you'll love the Vergeway! Collect and upgrade cards, mix and match them to deal with different stages, and put your brain to the test to defeat the evil enemies lurking inside the Verge!\n\n▶ ▶ Build Your Own Kingdom ◀◀\nUpgrade buildings, conduct research, train your troops, level your Heroes and lead your Kingdom well to prosper in this strategy game!",
+         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-21.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-6.png",
+        "appRating": "4.4",
+        "appCategorie": "City Game"
+    },
+    
+    "app6": {
+        "appName": "Robolox",
+        "appDescription": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people and discover an infinite variety of immersive experiences created by a global community!\n\nAlready have an account? Log in with your existing Roblox account and explore the infinite metaverse of Roblox.\n\nMILLIONS OF EXPERIENCES\n\nIn the mood for an epic adventure? Want to compete against rivals worldwide? Or do you just want to hang out and chat with your friends online? A growing library of experiences created by the community means there’s always something new and exciting for you every day.\n\nEXPLORE TOGETHER ANYTIME, ANYWHERE\n\nTake the fun on the go. Roblox features full cross-platform support, meaning you can join your friends and millions of other people on their computers, mobile devices, Xbox One, or VR headsets.\nBE ANYTHING YOU CAN IMAGINE",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-22.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-7.png",
+        "appRating": "4.9",
+        "appCategorie": "City Game"
+    },
+    
+    "app7": {
+        "appName": "Cookie Run: Kingdom",
+        "appDescription": "Time to open the door to the sweetest of dreams!\nEnjoy the magical new story together with the Disney friends!\n\n◼︎ EVERYONE'S FAVORITE TINY HEROES: THE COOKIES\nMeet our Cookies, all voiced by an amazing cast of voice actors\nWitness their epic skills, fall in love with their voices, and dress them into new chic costumes.\nJoin the Cookies in Cookie Run: Kingdom!\n\n◼︎ EMBARK ON AN EPIC JOURNEY AROUND EARTHBREAD\nThe secrets of the ancient Cookies and their kingdoms are waiting to be unraveled.\nJoin GingerBrave and his friends against Dark Enchantress Cookie and her dark legion.\nThe chronicles of Cookie Run: Kingdom have just begun!\n\n◼︎ BUILD A DELICIOUSLY SWEET KINGDOM\nChoose from a great variety of unique decors to design the Kingdom of your dreams.\nProduce materials, craft items, arrange all sorts of activities—the vibrant kingdom life awaits!\n\n◼︎ BATTLE YOUR WAY TO VICTORY\nCreate the ultimate Cookie team with endless combinations of Treasures and Toppings\nProve your battle skill in the Kingdom Arena, Cookie Alliance, Super Mayhem, and Guild Battles!\nCome up with different strategies to emerge victorious!\n■ BRING GLORY TO YOUR GUILD\nReach the top of the ranking table with your fellow guildmates.\nExpand your guild's Domain and collect Guild Relics to become the strongest guild there is!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-23.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-8.png",
+        "appRating": "4.8",
+        "appCategorie": "Arcarde"
+    },
+    
+    "app8": {
+         "appName": "Sim Empire",
+        "appDescription": "In the ancient times when story happened, when people began to build cities, The earliest human ancient civilizations was born. You will play a ruler, the small village will be bloomed into an empires.\nCivilization included Egypt, Persia, Greece, China, in the game, you will appreciate the exotic scenery, building cities, production resources, scientific research, training troops, and even the construction of the wonders of the world.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-24.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-9.png",
+        "appRating": "4.9",
+        "appCategorie": "City Game"
+    },
+    
+    "app9": {
+        "appName": "SimCity BuildIt",
+        "appDescription": "Welcome, Mayor! Be the hero of your very own city as you design and create a beautiful, bustling metropolis. Every decision is yours as your city gets larger and more intricate. Make smart choices to keep your citizens happy and your skyline growing. Then trade, chat, compete, and join clubs with fellow Mayors. Build your way to extraordinary!\n\nBRING YOUR CITY TO LIFE\nBuild skyscrapers, parks, bridges, and much more! Place buildings strategically to keep the taxes flowing and your city growing. Solve real-life challenges like traffic and pollution. Provide services like power plants and police departments. Keep traffic moving with grand avenues and streetcars.\n\nPUT YOUR IMAGINATION ON THE MAP\nBuild Tokyo-, London- or Paris-style neighborhoods, and unlock exclusive landmarks like the Eiffel Tower or Statue of Liberty. Discover new technologies with the Future Cities while getting athletic with sports stadiums. Decorate your city with rivers, lakes and forests, and expand along the beach or on the mountain slopes. Unlock new geographic regions such as the Sunny Isles or Frosty Fjords, each with a unique architectural style. There’s always something new and different to make your city unique.\n\nBATTLE YOUR WAY TO VICTORY\nDefend your city against monsters or compete against other mayors in Club Wars. Plot winning strategies with your Club mates and declare war on other cities. Once the battle is on, unleash crazy disasters like the Disco Twister and Plant Monster on your opponents. Earn valuable rewards to use in battle or to improve your city. In addition, take on other players in the Contest of Mayors, where you can complete weekly challenges and climb the League ranks towards the top. Each new contest Season brings on new unique rewards to beautify your city!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-25.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-10.png",
+        "appRating": "4.4",
+        "appCategorie": "City Game"
+    },
+    
+        "app10": {
+        "appName": "FIFA Soccer",
+        "appDescription": "Build your Ultimate Team™ and kickoff your soccer journey today. Soccer stars await with over 15,000 players including world-class talent like Kylian Mbappé, Christian Pulisic, and Son Heung-min, plus over 600 teams including Real Madrid and Manchester City. Boost your offense and defense with elite forwards and goalkeepers. Build your dream team in FIFA Mobile - collect players and put your favorite soccer stars to the test.\n\nTake part in playable live events that correspond with real-world tournaments throughout the soccer season, including UEFA Champions League and FIFA World Cup 2022™!\n\nScore goals with some of the world’s best players as you level up a team of soccer superstars. Compete against the best in pvp modes, including head-to-head, VS attack and the all new Manager mode, where you choose strategic tactics for your team so they can rise in rank to FIFA Champions and beyond.\n\nExperience FIFA Mobile, an immersive soccer game. Play with your Ultimate Team to the sounds of cheering crowds in memorable FIFA soccer stadiums. Penalty kick or breakaway - compete in a next-level soccer simulation. Renowned commentators provide live on-field audio commentary as the game comes alive with an enhanced game engine, day/night and weather simulations, and more.\n\nChampions are made in FIFA Mobile. World-class competition, realistic sports game thrills, real time 11v11 gameplay, and authentic soccer game action await. Kick it in the next generation of mobile soccer games.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-26.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-11.png",
+        "appRating": "4.5",
+        "appCategorie": "Sports"
+    },
+    
+    "app11": {
+        "appName": "Soccer Stars: Football Kick",
+        "appDescription": "Soccer Stars brings the action into the football pitch! A multiplayer game to play with friends, filled with new features and fun gameplay.\n\nTake to the football field, play against the best soccer clubs in the world and win the soccer world cup, all while challenging your friends in this 5-star multiplayer online & offline game.\n\n\nKEY FEATURES:\n\n• Online and offline multiplayer game\n• Simple and fun gameplay\n• Amazing ball physics\n• Online tournaments against players from all over the world\n• Multiplayer – Challenge & Play against your friends\n• Collect different teams and cups\n\n\nMULTIPLAYER SOCCER GAME\nKick hard, but kick smart. Pass the ball to your best players, challenge your friends and use the multiplayer feature, take on the best teams in the world. Be strong and kick that penalty kick just right, this is your game and the world cup is yours to win. Get that perfect kick!\n\nBe legendary! Do you have what it takes to win the World Cup??",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-27.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-12.png",
+        "appRating": "4.2",
+        "appCategorie": "Sports"
+    },
+    
+    "app12": {
+        "appName": "Hill Climb Racing 2",
+        "appDescription": "From the Creators of the original Hill Climb Racing comes Hill Climb Racing 2! It's Bigger, It's Better And It's Much Much Funner!?\n\nHill Climb Racing 2 is a 2D online multiplayer racing game with dozens of tracks, vehicles and character customization options at your fingertips.\n\nFeature List:\n● Race uphill in over 20+ different vehicles - Cars, trucks, bikes and even a tank!\n● Unlock & upgrade new vehicle parts for your favourite vehicle!\n● Customize your character and vehicle’s looks!\n● Team up with your friends online & race in teams mode!\n● Arcade racing fun while performing cool stunt tricks!\n● Dozens of tracks to race on!\n● Classic adventure mode makes a return\n● Weekly events that change up the gameplay in new exciting ways!\n● Race up hill to win In online races and earn epic loot!\n\nHill Climb Racing 2 takes all your favourite parts from Hill Climb Racing 1 and expands on them. The favourite adventure mode is back and bigger than even with gorgeous new tracks. You can race against other players from around the world in cups mode and even create a racing team with your friends to earn epic season rewards! We have expanded vehicle customization with new skins and upgrades to vehicles that enhance your driving experience! Race on!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-28.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-13.png",
+        "appRating": "4.3",
+        "appCategorie": "Arcarde"
+    },
+    
+    "app13": {
+        "appName": "Fairyland: Merge & Magic",
+        "appDescription": "Welcome to the merge island full of the most amazing pieces that you will ever merge! It looks nothing like your ordinary fairytales but is a unique collection of merge fables spiced up with true merge magic.\n\nThis endless world of wonder merge is full of possibilities. The sky is your limit!\n\nAlways dreamed about having a dragon? You can merge dragons, unicorns, leprechauns, or other fantastic beasts! It's your merge world and your rules. Make your dragon merge now and have fun with your dragon farm!\n\nLove playing collecting games or merging games? Use your mergefield to create your merge county, merge kingdom or even a merge universe and fill it with an infinite number of gorgeous buildings and creatures.\n\nWhat merger is it going to be next?\n\nKey Features:\n\n• Familiar characters in new and exciting circumstances.\n• Intriguing plot with an amazing main story and thrilling side quests.\n• Countless new lands to reveal and discoveries to make.\n• Fantastic merge puzzle quests to complete and rewards to collect.\n\nWonder what it's like to have such a mergical experience? Stop questioning yourself and jump right into this fantastic merge game full of merge tales. If you love free merge games and discoveries, then Once upon a merge is a perfect fit for you!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-29.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-14.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+        
+    "app14": {
+        "appName": "Genshin Impact - Sumeru Debut",
+        "appDescription": "Step into Teyvat, a vast world teeming with life and flowing with elemental energy.\nYou and your sibling arrived here from another world. Separated by an unknown god, stripped of your powers, and cast into a deep slumber, you now awake to a world very different from when you first arrived.\nThus begins your journey across Teyvat to seek answers from The Seven — the gods of each element. Along the way, prepare to explore every inch of this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds...\nMASSIVE OPEN WORLD\nClimb any mountain, swim across any river, and glide over the world below, taking in the jaw-dropping scenery each step of the way. And if you stop to investigate a wandering Seelie or strange mechanism, who knows what you might discover?\nELEMENTAL COMBAT SYSTEM\nHarness the seven elements to unleash elemental reactions. Anemo, Electro, Hydro, Pyro, Cryo, Dendro, and Geo interact in all sorts of ways, and Vision wielders have the power to turn this to their advantage.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-30.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-15.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+    
+    
+   "app15": {
+        "appName": "Garena Free Fire",
+        "appDescription": "Free Fire, the world-famous survival shooter game available on mobile. Each 10-minute game places you on a remote island where you are pit against 49 other players, all seeking survival. Players freely choose their starting point with their parachute, and aim to stay in the safe zone for as long as possible. Drive vehicles to explore the vast map, hide in the wild, or become invisible by proning under grass or rifts. Ambush, snipe, survive, there is only one goal: to survive and answer the call of duty.\nFree Fire, Battle In Style!\n[Survival shooter in its original form]\nSearch for weapons, stay in the play zone, loot your enemies and become the last man standing. Along the way, go for legendary airdrops while avoiding airstrikes to gain that little edge against other players.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-16.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-1.png",
+        "appRating": "4.1",
+        "appCategorie": "Action"
+    },
+    
+    "app16": {
+        "appName": "Subway Surfers",
+        "appDescription": "DASH as fast as you can!\nDODGE the oncoming trains!\nHelp Jake, Tricky & Fresh escape from the grumpy Inspector and his dog.\n★ Grind trains with your cool crew!\n★ Colorful and vivid HD graphics!\n★ Hoverboard Surfing!\n★ Paint powered jetpack!\n★ Lightning fast swipe acrobatics!\n★ Challenge and help your friends!\nJoin the most daring chase!\nA Universal App with HD optimized graphics.\nBy Kiloo and Sybo.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-17.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-2.png",
+        "appRating": "4.4",
+        "appCategorie": "Arcarde"
+    },
+    
+    "app17": {
+        "appName": "8 Ball Pool",
+        "appDescription": "o you want to play in the world of pool games? 8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online. Become a master of the pool!\n\nThe balls game is easy to win. You just have to select the table and get ready. Join us and challenge your to this ball game in PvP mode. Use your pool strategy with the cue wisely in this online multiplayer ball game as every round will be more difficult after each level. You can play in multiplayer or PvP mode in different pool tables. Become the best player and challenge your friends in this pool game.\n\nYou can play pool in multiplayer or PvP mode using different balls and table types. 8 Ball Pool is designed to help your intelligence. You will improve the aim when shooting balls with the cue.\n\nCHALLENGE YOUR FRIENDS\nPlaying pool in multiplayer tournaments with friends is easy: Sign in for free with your Miniclip or Facebook account and you’ll be able to challenge your friends straight from this multiplayer 8 ball game. Challenge friends to a PvP pool match on the go. Aim and shoot your best balls with a customized cue in our online 3D PvP tournament!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-18.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-3.png",
+        "appRating": "4.7",
+        "appCategorie": "Sports"
+    },
+    
+    "app18": {
+        "appName": "Basketball Battle",
+        "appDescription": "MOVES:\n★ Easy moving and shooting!\n★ Dunk on people!\n★ Nasty cross-overs and step-backs!\n\nCOMPETITION:\n★ Travel the country competing in tournaments!\n★ Over 100 unique basketball courts!\n★ Compete in online LIVE EVENTS!\n\nTEAM MANAGEMENT:\n★ Customize your look and upgrade your players!\n\nFRIENDS:\n★ Challenge friends in 2 player split screen!\n\nDon't miss out on the sports game everyone is playing!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-19.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-4.png",
+        "appRating": "4.3",
+        "appCategorie": "Sports"
+    },
+    
+    "app19": {
+        "appName": "yu-gi-oh! cross duel",
+        "appDescription": "Overlapping battles make for an ever-changing match! Duelists will have to pay close attention if they want to come out on top!\n\n[Game Introduction]\n\n▼ What Is Yu-Gi-Oh! CROSS DUEL?\nIf you want to duke it out in real-time with Duelists worldwide in a brand-new style of card game, then look no further!\n\n▼ Three Modes to Enjoy!\nIn addition to 4 Player Match Mode, you can play together with characters from the Yu-Gi-Oh! series in Single Player Mode, or head to 4 Player Co-op Mode and team up with other Duelists to overcome a fearsome Raid Boss!\nAim to become the best Duelist in whichever mode suits you!\n\n▼ Characters\nCharacters from 7 different animated Yu-Gi-Oh! series will make an appearance, partnering with Duelists in battle!\nStrengthen your bonds with your Partners to take down even the toughest enemies!\nWith the original cast doing the voice acting, Duels feel even more dramatic!\n\n▼ Monsters\nAll monsters have been rendered with 3D graphics, including awe-inspiring Summoning scenes!\nMonsters can be enhanced with a wide range of powerful Skills, allowing Duelists to customize their builds.\nSetting different Skills to the same monster results in wildly different battle styles!\nUse your favorite monsters and Ace Monsters to create your own unique Deck!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-20.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-5.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+    
+        "app20": {
+        "appName": "lords mobile: tower defense",
+        "appDescription": "Tired of other strategy games? Are you ready for a REAL fight?\n\nThe true Emperor has fallen. We need a real hero, a true Lord who can unite the Kingdoms. Recruit heroes from various backgrounds, from dwarves and mermaids to dark elves and steampunk robots, and assemble your army in this magical world! Fight and conquer to establish your empire in one of the strategy games!\n\n[Game Features]:\n\n▶ ▶ Collect Artifacts! ◀◀\nDiscover ancient Artifacts in the Artifact Hall. Upgrade and enhance them to unlock their true power!\n\n▶ ▶ Enter the Vergeway! ◀◀\n\nLike tower defense? Then you'll love the Vergeway! Collect and upgrade cards, mix and match them to deal with different stages, and put your brain to the test to defeat the evil enemies lurking inside the Verge!\n\n▶ ▶ Build Your Own Kingdom ◀◀\nUpgrade buildings, conduct research, train your troops, level your Heroes and lead your Kingdom well to prosper in this strategy game!",
+         "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-21.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-6.png",
+        "appRating": "4.4",
+        "appCategorie": "City Game"
+    },
+    
+    "app21": {
+        "appName": "Robolox",
+        "appDescription": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people and discover an infinite variety of immersive experiences created by a global community!\n\nAlready have an account? Log in with your existing Roblox account and explore the infinite metaverse of Roblox.\n\nMILLIONS OF EXPERIENCES\n\nIn the mood for an epic adventure? Want to compete against rivals worldwide? Or do you just want to hang out and chat with your friends online? A growing library of experiences created by the community means there’s always something new and exciting for you every day.\n\nEXPLORE TOGETHER ANYTIME, ANYWHERE\n\nTake the fun on the go. Roblox features full cross-platform support, meaning you can join your friends and millions of other people on their computers, mobile devices, Xbox One, or VR headsets.\nBE ANYTHING YOU CAN IMAGINE",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-22.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-7.png",
+        "appRating": "4.9",
+        "appCategorie": "City Game"
+    },
+    
+    "app22": {
+        "appName": "Cookie Run: Kingdom",
+        "appDescription": "Time to open the door to the sweetest of dreams!\nEnjoy the magical new story together with the Disney friends!\n\n◼︎ EVERYONE'S FAVORITE TINY HEROES: THE COOKIES\nMeet our Cookies, all voiced by an amazing cast of voice actors\nWitness their epic skills, fall in love with their voices, and dress them into new chic costumes.\nJoin the Cookies in Cookie Run: Kingdom!\n\n◼︎ EMBARK ON AN EPIC JOURNEY AROUND EARTHBREAD\nThe secrets of the ancient Cookies and their kingdoms are waiting to be unraveled.\nJoin GingerBrave and his friends against Dark Enchantress Cookie and her dark legion.\nThe chronicles of Cookie Run: Kingdom have just begun!\n\n◼︎ BUILD A DELICIOUSLY SWEET KINGDOM\nChoose from a great variety of unique decors to design the Kingdom of your dreams.\nProduce materials, craft items, arrange all sorts of activities—the vibrant kingdom life awaits!\n\n◼︎ BATTLE YOUR WAY TO VICTORY\nCreate the ultimate Cookie team with endless combinations of Treasures and Toppings\nProve your battle skill in the Kingdom Arena, Cookie Alliance, Super Mayhem, and Guild Battles!\nCome up with different strategies to emerge victorious!\n■ BRING GLORY TO YOUR GUILD\nReach the top of the ranking table with your fellow guildmates.\nExpand your guild's Domain and collect Guild Relics to become the strongest guild there is!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-23.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-8.png",
+        "appRating": "4.8",
+        "appCategorie": "Arcarde"
+    },
+    
+    "app23": {
+         "appName": "Sim Empire",
+        "appDescription": "In the ancient times when story happened, when people began to build cities, The earliest human ancient civilizations was born. You will play a ruler, the small village will be bloomed into an empires.\nCivilization included Egypt, Persia, Greece, China, in the game, you will appreciate the exotic scenery, building cities, production resources, scientific research, training troops, and even the construction of the wonders of the world.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-24.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-9.png",
+        "appRating": "4.9",
+        "appCategorie": "City Game"
+    },
+    
+    "app24": {
+        "appName": "SimCity BuildIt",
+        "appDescription": "Welcome, Mayor! Be the hero of your very own city as you design and create a beautiful, bustling metropolis. Every decision is yours as your city gets larger and more intricate. Make smart choices to keep your citizens happy and your skyline growing. Then trade, chat, compete, and join clubs with fellow Mayors. Build your way to extraordinary!\n\nBRING YOUR CITY TO LIFE\nBuild skyscrapers, parks, bridges, and much more! Place buildings strategically to keep the taxes flowing and your city growing. Solve real-life challenges like traffic and pollution. Provide services like power plants and police departments. Keep traffic moving with grand avenues and streetcars.\n\nPUT YOUR IMAGINATION ON THE MAP\nBuild Tokyo-, London- or Paris-style neighborhoods, and unlock exclusive landmarks like the Eiffel Tower or Statue of Liberty. Discover new technologies with the Future Cities while getting athletic with sports stadiums. Decorate your city with rivers, lakes and forests, and expand along the beach or on the mountain slopes. Unlock new geographic regions such as the Sunny Isles or Frosty Fjords, each with a unique architectural style. There’s always something new and different to make your city unique.\n\nBATTLE YOUR WAY TO VICTORY\nDefend your city against monsters or compete against other mayors in Club Wars. Plot winning strategies with your Club mates and declare war on other cities. Once the battle is on, unleash crazy disasters like the Disco Twister and Plant Monster on your opponents. Earn valuable rewards to use in battle or to improve your city. In addition, take on other players in the Contest of Mayors, where you can complete weekly challenges and climb the League ranks towards the top. Each new contest Season brings on new unique rewards to beautify your city!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-25.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-10.png",
+        "appRating": "4.4",
+        "appCategorie": "City Game"
+    },
+    
+        "app25": {
+        "appName": "FIFA Soccer",
+        "appDescription": "Build your Ultimate Team™ and kickoff your soccer journey today. Soccer stars await with over 15,000 players including world-class talent like Kylian Mbappé, Christian Pulisic, and Son Heung-min, plus over 600 teams including Real Madrid and Manchester City. Boost your offense and defense with elite forwards and goalkeepers. Build your dream team in FIFA Mobile - collect players and put your favorite soccer stars to the test.\n\nTake part in playable live events that correspond with real-world tournaments throughout the soccer season, including UEFA Champions League and FIFA World Cup 2022™!\n\nScore goals with some of the world’s best players as you level up a team of soccer superstars. Compete against the best in pvp modes, including head-to-head, VS attack and the all new Manager mode, where you choose strategic tactics for your team so they can rise in rank to FIFA Champions and beyond.\n\nExperience FIFA Mobile, an immersive soccer game. Play with your Ultimate Team to the sounds of cheering crowds in memorable FIFA soccer stadiums. Penalty kick or breakaway - compete in a next-level soccer simulation. Renowned commentators provide live on-field audio commentary as the game comes alive with an enhanced game engine, day/night and weather simulations, and more.\n\nChampions are made in FIFA Mobile. World-class competition, realistic sports game thrills, real time 11v11 gameplay, and authentic soccer game action await. Kick it in the next generation of mobile soccer games.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-26.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-11.png",
+        "appRating": "4.5",
+        "appCategorie": "Sports"
+    },
+    
+    "app26": {
+        "appName": "Soccer Stars: Football Kick",
+        "appDescription": "Soccer Stars brings the action into the football pitch! A multiplayer game to play with friends, filled with new features and fun gameplay.\n\nTake to the football field, play against the best soccer clubs in the world and win the soccer world cup, all while challenging your friends in this 5-star multiplayer online & offline game.\n\n\nKEY FEATURES:\n\n• Online and offline multiplayer game\n• Simple and fun gameplay\n• Amazing ball physics\n• Online tournaments against players from all over the world\n• Multiplayer – Challenge & Play against your friends\n• Collect different teams and cups\n\n\nMULTIPLAYER SOCCER GAME\nKick hard, but kick smart. Pass the ball to your best players, challenge your friends and use the multiplayer feature, take on the best teams in the world. Be strong and kick that penalty kick just right, this is your game and the world cup is yours to win. Get that perfect kick!\n\nBe legendary! Do you have what it takes to win the World Cup??",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-27.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-12.png",
+        "appRating": "4.2",
+        "appCategorie": "Sports"
+    },
+    
+    "app27": {
+        "appName": "Hill Climb Racing 2",
+        "appDescription": "From the Creators of the original Hill Climb Racing comes Hill Climb Racing 2! It's Bigger, It's Better And It's Much Much Funner!?\n\nHill Climb Racing 2 is a 2D online multiplayer racing game with dozens of tracks, vehicles and character customization options at your fingertips.\n\nFeature List:\n● Race uphill in over 20+ different vehicles - Cars, trucks, bikes and even a tank!\n● Unlock & upgrade new vehicle parts for your favourite vehicle!\n● Customize your character and vehicle’s looks!\n● Team up with your friends online & race in teams mode!\n● Arcade racing fun while performing cool stunt tricks!\n● Dozens of tracks to race on!\n● Classic adventure mode makes a return\n● Weekly events that change up the gameplay in new exciting ways!\n● Race up hill to win In online races and earn epic loot!\n\nHill Climb Racing 2 takes all your favourite parts from Hill Climb Racing 1 and expands on them. The favourite adventure mode is back and bigger than even with gorgeous new tracks. You can race against other players from around the world in cups mode and even create a racing team with your friends to earn epic season rewards! We have expanded vehicle customization with new skins and upgrades to vehicles that enhance your driving experience! Race on!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-28.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-13.png",
+        "appRating": "4.3",
+        "appCategorie": "Arcarde"
+    },
+    
+    "app28": {
+        "appName": "Fairyland: Merge & Magic",
+        "appDescription": "Welcome to the merge island full of the most amazing pieces that you will ever merge! It looks nothing like your ordinary fairytales but is a unique collection of merge fables spiced up with true merge magic.\n\nThis endless world of wonder merge is full of possibilities. The sky is your limit!\n\nAlways dreamed about having a dragon? You can merge dragons, unicorns, leprechauns, or other fantastic beasts! It's your merge world and your rules. Make your dragon merge now and have fun with your dragon farm!\n\nLove playing collecting games or merging games? Use your mergefield to create your merge county, merge kingdom or even a merge universe and fill it with an infinite number of gorgeous buildings and creatures.\n\nWhat merger is it going to be next?\n\nKey Features:\n\n• Familiar characters in new and exciting circumstances.\n• Intriguing plot with an amazing main story and thrilling side quests.\n• Countless new lands to reveal and discoveries to make.\n• Fantastic merge puzzle quests to complete and rewards to collect.\n\nWonder what it's like to have such a mergical experience? Stop questioning yourself and jump right into this fantastic merge game full of merge tales. If you love free merge games and discoveries, then Once upon a merge is a perfect fit for you!",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-29.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-14.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    },
+        
+    "app29": {
+        "appName": "Genshin Impact - Sumeru Debut",
+        "appDescription": "Step into Teyvat, a vast world teeming with life and flowing with elemental energy.\nYou and your sibling arrived here from another world. Separated by an unknown god, stripped of your powers, and cast into a deep slumber, you now awake to a world very different from when you first arrived.\nThus begins your journey across Teyvat to seek answers from The Seven — the gods of each element. Along the way, prepare to explore every inch of this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds...\nMASSIVE OPEN WORLD\nClimb any mountain, swim across any river, and glide over the world below, taking in the jaw-dropping scenery each step of the way. And if you stop to investigate a wandering Seelie or strange mechanism, who knows what you might discover?\nELEMENTAL COMBAT SYSTEM\nHarness the seven elements to unleash elemental reactions. Anemo, Electro, Hydro, Pyro, Cryo, Dendro, and Geo interact in all sorts of ways, and Vision wielders have the power to turn this to their advantage.",
+        "appImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-30.png",
+        "appIcon":"https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Ml%20Skin%20Tools/content/mlskinToolArtboard-15.png",
+        "appRating": "4.9",
+        "appCategorie": "Arcarde"
+    }
+
 }
