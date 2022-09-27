@@ -1,7 +1,7 @@
 {
     "data": {
-        "appNumber": 15,
-        "show_ads": false,
+        "appNumber": 30,
+        "show_ads": true,
         "bannerad": "yandex",
         "interad": "yandex",
         "nativead": "yandex",
