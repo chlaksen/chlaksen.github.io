@@ -1,13 +1,13 @@
 {
     "data": {
-        "appNumber": 10,
+        "appNumber": 30,
         "show_ads": true,
         "bannerad": "yandex",
         "interad": "yandex",
         "nativead": "yandex",
-        "yandexbanner": "R-M-1961241-1",
-        "yandexinter": "R-M-1961241-3",
-        "yandexnative": "R-M-1961241-2",
+        "yandexbanner": "R-M-1945348-1",
+        "yandexinter": "R-M-1945348-3",
+        "yandexnative": "R-M-1945348-2",
         "oneSignal": "064ed128-2f6a-4632-af5b-5be995fffa52",
         "splashImageUrl": "https://raw.githubusercontent.com/chlaksen/chlaksen.github.io/main/Room%20Mods/icon.png"
     } ,
